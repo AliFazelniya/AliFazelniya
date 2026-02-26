@@ -21,8 +21,8 @@ Currently sharpening skills through hands-on projects and competitions (Kaggle),
 ---
 
 ## 🧩 Selected links
-- 🏅 Kaggle: https://www.kaggle.com/alifazelniya  
-- 💼 LinkedIn: https://www.linkedin.com/in/ali-fazelniya-07b3881b3/
+- 🏅 Kaggle: www.kaggle.com/alifazelniya  
+- 💼 LinkedIn: www.linkedin.com/in/ali-fazelniya-07b3881b3/
 
 ---
 
