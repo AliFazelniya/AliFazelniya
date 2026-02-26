@@ -24,6 +24,7 @@ Currently sharpening skills through hands-on projects and competitions (Kaggle),
 - 🏅 Kaggle: www.kaggle.com/alifazelniya  
 - 💼 LinkedIn: www.linkedin.com/in/ali-fazelniya-07b3881b3/
 - 📧 Email : alifazelnniya.1384@gmail.com
+- Telegram: https://t.me/Norbert_desu
 ---
 
 ## 📌 Current focus
