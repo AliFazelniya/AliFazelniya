@@ -13,7 +13,7 @@ Currently sharpening skills through hands-on projects and competitions (Kaggle),
 
 ---
 
-## 🧠 Skills (ML / DL)
+## 🧠 Skills
 **Core:** supervised learning, feature engineering, model evaluation, cross-validation  
 **Deep Learning:** neural networks, training loops, regularization, optimization basics  
 **Workflow:** experimentation, reproducible notebooks, metric-driven iteration
