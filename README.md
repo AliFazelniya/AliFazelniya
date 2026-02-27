@@ -75,18 +75,6 @@ me.say_hi()
 
 ---
 
-## 📈 Training Log
-
-```
-Epoch   1/∞  | Loss: 2.918  | Acc: 21%  | "What is a tensor??"
-Epoch  10/∞  | Loss: 1.543  | Acc: 47%  | "Oh I see, kind of..."
-Epoch  50/∞  | Loss: 0.874  | Acc: 68%  | "I think I get it now!"
-Epoch 100/∞  | Loss: 0.341  | Acc: 83%  | "Okay this is actually cool"
-Epoch NOW/∞  | Loss: 0.042  | Acc: 97%  | "Wait, I built WHAT?! 🤯"
-
-[==============================] Still training...
-```
-
 ## 📬 Let's Connect
 
 <div align="center">
