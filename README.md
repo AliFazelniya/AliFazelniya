@@ -119,23 +119,6 @@ Epoch NOW/∞  | Loss: 0.042  | Acc: 97%  | "Wait, I built WHAT?! 🤯"
 [==============================] Still training...
 ```
 
----
-
-## 🌱 Learning Philosophy
-
-```
-if confused:
-    read_more()
-    experiment()
-    break_things()
-    fix_things()
-    repeat()
-else:
-    go_deeper()  # there's always more to learn
-```
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
