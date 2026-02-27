@@ -48,12 +48,6 @@ me.say_hi()
                            (a.k.a. learning from mistakes)
 ```
 
-## 🗂️ Projects in the Wild
-
-> *"A model not deployed is just a well-formatted dream."*
-
----
-
 ## ⚡ Tech Stack
 
 <div align="center">
