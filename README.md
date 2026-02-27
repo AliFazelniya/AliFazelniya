@@ -22,7 +22,7 @@
 ```python
 class Me:
     def __init__(self):
-        self.name        = "[ Your Name ]"
+        self.name        = "Ali"
         self.role        = "ML Explorer & Neural Net Enthusiast"
         self.current     = "Training myself... and my models"
         self.interests   = ["Deep Learning", "Neural Networks", "AI Research"]
