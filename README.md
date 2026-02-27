@@ -1,4 +1,3 @@
-<!-- Header Banner -->
 <div align="center">
 
 ```
