@@ -129,19 +129,3 @@ Epoch NOW/∞  | Loss: 0.042  | Acc: 97%  | "Wait, I built WHAT?! 🤯"
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Norbert_desu)
 
 </div>
-
----
-
-<div align="center">
-
-```python
-while True:
-    learn()
-    build()
-    share()
-    # no stopping condition — that's the point
-```
-
-⭐ *If any of my projects helped you, a star is the best backprop you can give!* ⭐
-
-</div>
