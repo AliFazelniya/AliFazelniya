@@ -52,41 +52,9 @@ me.say_hi()
                            (a.k.a. learning from mistakes)
 ```
 
----
-
-## 🔬 What I'm Exploring
-
-| Topic | Status | Progress |
-|-------|--------|----------|
-| 🤖 Neural Networks | Actively Learning | `█████████░` 90% |
-| 📊 Machine Learning | In Progress | `████████░░` 80% |
-| 🖼️ Computer Vision | Exploring | `██████░░░░` 60% |
-| 🗣️ NLP / LLMs | Just Started | `████░░░░░░` 40% |
-| 🔢 Math for ML | Ongoing Forever | `███████░░░` 70% |
-
----
-
 ## 🗂️ Projects in the Wild
 
 > *"A model not deployed is just a well-formatted dream."*
-
-### 🔭 Currently Building
-```bash
-$ ls ~/projects/active/
-
-neural_net_from_scratch/   # building the basics by hand 🪛
-image_classifier/          # can it tell a cat from a dog? mostly yes 🐱🐶
-data_vibes/                # EDA that sparks joy ✨
-```
-
-### ✅ Past Experiments
-```bash
-$ ls ~/projects/done/
-
-first_nn_ever/             # 300 lines of tears and triumph 😅
-gradient_descent_vis/      # watching a ball roll downhill
-linear_regression_fun/     # where it all began 📈
-```
 
 ---
 
